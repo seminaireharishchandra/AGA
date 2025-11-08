@@ -23,6 +23,20 @@ body {
   display: flex;
   justify-content: center;
 }
+.photo {
+  width: 100%;               
+  max-width: 180px;          
+  margin: 0 auto 12px auto;   
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.photo img {
+  width: 100%;
+  height: auto;              
+  display: block;
+  border-radius: 6px;
+}
 
 
 body {
